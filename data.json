@@ -1,0 +1,83 @@
+[
+    {
+        "slno": "1",    
+        "name": "Apple",
+        "quantity": "2 Kg",
+        "unit": "20",
+        "department": "Fruits",
+        "notes": "Red Apple"
+    },
+    {
+        "slno": "2",    
+        "name": "Eggs",
+        "quantity": "25 Nos",
+        "unit": "3",
+        "department": "Poultry",
+        "notes": "Desi Eggs"
+    },
+    {
+        "slno": "3",    
+        "name": "Milk",
+        "quantity": "2 L",
+        "unit": "4",
+        "department": "Dairy",
+        "notes": "Fresh Milk"
+    },
+    {
+        "slno": "4",    
+        "name": "Rice",
+        "quantity": "5 Kg",
+        "unit": "1",
+        "department": "Grains",
+        "notes": "Red Matta Rice"
+    },
+    {
+        "slno": "5",    
+        "name": "Aata",
+        "quantity": "5 Kg",
+        "unit": "1",
+        "department": "Flour",
+        "notes": "Wheat Flour / Chakki Aata"
+    },
+    {
+        "slno": "6",    
+        "name": "Dal",
+        "quantity": "500 Gms",
+        "unit": "1",
+        "department": "Pulses",
+        "notes": "Split region peas Dal"
+    },
+    {
+        "slno": "7",    
+        "name": "Coffee",
+        "quantity": "250 Gms",
+        "unit": "1",
+        "department": "Dairy",
+        "notes": "Latte"
+    },
+    {
+        "slno": "8",    
+        "name": "Sugar",
+        "quantity": "1 Kg",
+        "unit": "1",
+        "department": "Sugar",
+        "notes": "Pack of 1"
+    },
+    {
+        "slno": "9",    
+        "name": "Dhania",
+        "quantity": "250 Gms",
+        "unit": "1",
+        "department": "seeds    ",
+        "notes": "Coriander seeds"
+    },
+    {
+        "slno": "10",    
+        "name": "Butter",
+        "quantity": "200 Gms",
+        "unit": "1",
+        "department": "Dairy",
+        "notes": "Amul Butter"
+    }
+   
+]
